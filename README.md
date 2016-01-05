@@ -7,3 +7,5 @@ To get it up and running on your Android device, follow the steps below.
 * `cd drag_vanilla`
 * `cordova platform add android`
 * `cordova run android`
+
+Related Ionic issue: https://github.com/driftyco/ionic/issues/3695
